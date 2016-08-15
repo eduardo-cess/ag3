@@ -1,15 +1,32 @@
+#!/usr/bin/env node
 console.time("time");
 
 var fs = require('fs');
 var u = require('underscore');
 var MongoClient = require('mongodb').MongoClient, assert = require('assert');
 var ag = require('./ag_class.js');
+ 
+
+ 
+var program = require('commander');
+ 
+program
+  .version('1.0.0')
+  .option('-t, --tipoag [type]', 'Tipo do AG [1 = canônico, 2 = elitismo, 3 = normalização linear, 4 = normalização linear + elitismo, 5 = canônico com F6 aumentada, 6 = elitismo com F6 aumentada]\n', '1')
+  .option('-c, --cruzamento [type]', 'Tipo de cruzamento [1 = 1 ponto de corte, 2 = 2 pontos de corte, 3 = uniforme]','1')
+  .parse(process.argv);
+ 
+// console.log('you ordered a pizza with:');
+// if (program.peppers) console.log('  - peppers');
+// if (program.pineapple) console.log('  - pineapple');
+// if (program.bbqSauce) console.log('  - bbq');
+// console.log('  - %s cheese', program.cheese);
 
 const CANONICO = 1, ELITISMO = 2, NORM_LINEAR = 3, NORM_LIN_ELITISMO = 4, CANONICO_F6_MOD = 5, ELIT_F6_MOD = 6;
 const UM_PONTO_CORTE = 1, DOIS_PONTO_CORTE = 2, UNIFORME = 3;
 
-var tipo_ag = ELITISMO;
-var tipo_cruzamento = UNIFORME;
+var tipo_ag = program.tipoag;
+var tipo_cruzamento = program.cruzamento;
 
 ag.array_populacao_experimento = [300];
 

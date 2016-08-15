@@ -51,7 +51,7 @@ ag_class.prototype.play_ag = function(tipo_ag, tipo_cruzamento){
 		this.cont_geracao = parseInt(geracao) + 1;
 		this.reproduzir(tipo_ag, tipo_cruzamento);
 		this.avaliar(tipo_ag);
-		this.print_info(tipo_ag);
+		this.print_info(tipo_ag, tipo_cruzamento);
 	}
 	console.log('Melhor aptidão: '+this.melhor_aptidao);
   
@@ -70,19 +70,17 @@ ag_class.prototype.play_ag = function(tipo_ag, tipo_cruzamento){
 
 }
 
-ag_class.prototype.print_info = function(tipo_ag){
-	if(tipo_ag == 2)
-		tipo = 'Elitismo';
-	else if(tipo_ag == 3)
-		tipo = 'Normalização Linear';
-	else if(tipo_ag == 4)
-		tipo = 'Normalização Linear + Elitismo';
-	else if(tipo_ag == 5)
-		tipo = 'Canônico com f6+999';
-	else if(tipo_ag == 6)
-		tipo = 'Elitismo com f6+999';
+ag_class.prototype.print_info = function(tipo_ag, tipo_cruzamento){
+	if(tipo_ag == 2) tipo = 'Elitismo';
+	else if(tipo_ag == 3)	tipo = 'Normalização Linear';
+	else if(tipo_ag == 4)	tipo = 'Normalização Linear + Elitismo';
+	else if(tipo_ag == 5)	tipo = 'Canônico com f6+999';
+	else if(tipo_ag == 6)	tipo = 'Elitismo com f6+999';
 	else tipo = 'Canônico';
-	console.log('experimento/geração: '+this.experimento+'/'+this.cont_geracao+' '+tipo);
+	if(tipo_cruzamento == 1) cruzamento = 'Um Ponto de Corte';
+	else if(tipo_cruzamento == 2) cruzamento = 'Dois Pontos de Corte';
+	else cruzamento = 'Uniforme';
+	console.log('Tipo: '+tipo+' -- Cruzamento: '+cruzamento+' -- experimento/geração: '+this.experimento+'/'+this.cont_geracao);
 }
 
 ag_class.prototype.norm_linear = function(){
@@ -161,7 +159,6 @@ ag_class.prototype.avaliar = function(tipo_ag){
 	this.media_individuo_geracao.push(sum_aptidao/this.aptidao_pop.length);
 	this.melhor_individuo_geracao.push(melhor_da_geracao);
 	this.pior_individuo_geracao.push(pior_da_geracao);
-	console.log(melhor_da_geracao);
 }
 
 ag_class.prototype.reproduzir = function(tipo_ag, tipo_cruzamento){
