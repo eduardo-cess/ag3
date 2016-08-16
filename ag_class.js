@@ -25,7 +25,6 @@ ag_class.prototype.pior_individuo_geracao = [];
 ag_class.prototype.media_individuo_geracao = [];
 ag_class.prototype.qtd_mutacoes_experimento = 0, cont_geracao = 0;
 
-
 ag_class.prototype.zerar_variaveis = function(){
 	this.pop = [];
 	this.aptdao_sum = [];
@@ -67,7 +66,6 @@ ag_class.prototype.play_ag = function(tipo_ag, tipo_cruzamento){
   	};
 
   	this.array_experimento.push(info_to_insert);
-
 }
 
 ag_class.prototype.print_info = function(tipo_ag, tipo_cruzamento){

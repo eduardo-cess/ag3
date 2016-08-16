@@ -1,0 +1,627 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tipo",
+				"tipo_cruzamento〔argument〕"
+			],
+			[
+				"cr",
+				"cruzamento"
+			],
+			[
+				"fi",
+				"filho1"
+			],
+			[
+				"fil",
+				"filho1〔variable〕"
+			],
+			[
+				"pon",
+				"ponto_corte_2〔variable〕"
+			],
+			[
+				"ponto",
+				"ponto_corte_1〔variable〕"
+			],
+			[
+				"q",
+				"qtd_bits"
+			],
+			[
+				"max",
+				"max_corte_1〔variable〕"
+			],
+			[
+				"ra",
+				"randomInt"
+			],
+			[
+				"qtd",
+				"qtd_bits"
+			],
+			[
+				"U",
+				"UM_PONTO_CORTE"
+			],
+			[
+				"C",
+				"CANONICO"
+			],
+			[
+				"EL",
+				"ELIT_F6_MOD"
+			],
+			[
+				"CA",
+				"CANONICO_F6_MOD"
+			],
+			[
+				"NO",
+				"NORM_LIN_ELITISMO"
+			],
+			[
+				"ponto_",
+				"ponto_corte_1〔variable〕"
+			],
+			[
+				"he",
+				"height: 〔property〕"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"console",
+				"console.log()"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"melhores",
+				"melhores_individuos"
+			],
+			[
+				"arr",
+				"array_media〔variable〕"
+			],
+			[
+				"ar",
+				"array_media"
+			],
+			[
+				"me",
+				"melhores_individuos"
+			],
+			[
+				"med",
+				"media"
+			],
+			[
+				"melh",
+				"melhor_da_geracao〔variable〕"
+			],
+			[
+				"ap",
+				"aptidao_individuo"
+			],
+			[
+				"melhor",
+				"melhor_da_geracao"
+			],
+			[
+				"sele",
+				"select_mais_apto_geracao〔function〕"
+			],
+			[
+				"pop",
+				"pop_inicial"
+			],
+			[
+				"indi",
+				"individuos〔variable〕"
+			],
+			[
+				"ind",
+				"individuos〔variable〕"
+			],
+			[
+				"po",
+				"populacao_inicial"
+			],
+			[
+				"get",
+				"get_experimento_from_mongo"
+			],
+			[
+				"medi",
+				"media_geral_ind"
+			],
+			[
+				"in",
+				"individuos"
+			],
+			[
+				"e",
+				"experimento_collection"
+			],
+			[
+				"ex",
+				"experimento"
+			],
+			[
+				"qtd_",
+				"qtd_pop〔variable〕"
+			],
+			[
+				"cont",
+				"cont_geracao〔variable〕"
+			],
+			[
+				"filho",
+				"filhos〔variable〕"
+			],
+			[
+				"random",
+				"randomInt"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"conso",
+				"console.log('experimento"
+			],
+			[
+				"conn",
+				"connection   (obj) [E]"
+			],
+			[
+				"aptidao_",
+				"aptidao_pop_total_experimento"
+			],
+			[
+				"qt",
+				"qtd_mutacoes"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"a",
+				"avaliar"
+			],
+			[
+				"w",
+				"wt(\"x"
+			],
+			[
+				"p",
+				"push〔function〕"
+			],
+			[
+				"bin",
+				"bin2Float〔class〕"
+			],
+			[
+				"fo",
+				"for"
+			],
+			[
+				"parse",
+				"parseInt〔function〕"
+			],
+			[
+				"bi",
+				"binary"
+			],
+			[
+				"f",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"_",
+				"$_GET〔variable〕"
+			],
+			[
+				"i",
+				"input	Tag"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"pun",
+				"puntuados〔variable〕"
+			],
+			[
+				"ma",
+				"margin-bottom: 〔property〕"
+			],
+			[
+				"j",
+				"justify〔value〕"
+			],
+			[
+				"tex",
+				"text-align: 〔property〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "p",
+		"selected_items":
+		[
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"npm i",
+				"npm: Install Saved Packages"
+			],
+			[
+				"npm sa",
+				"npm: Install and Save Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git ",
+				"Git: Add All"
+			],
+			[
+				"git p",
+				"Git: Push Current Branch"
+			],
+			[
+				"git",
+				"Git: Add All"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/cess/Documentos/nodejs/expressPlotAg"
+	],
+	"file_history":
+	[
+		"/home/cess/Documentos/nodejs/testeCommander/index.js",
+		"/home/cess/Documentos/nodejs/commander/index.js",
+		"/home/cess/Documentos/Semestre/Computação_Evolutiva/ag3/package.json",
+		"/home/cess/Documentos/Semestre/Computação_Evolutiva/ag3/LICENSE",
+		"/home/cess/Documentos/cordova/workshop/www/js/services/json/EmployeeService.js",
+		"/home/cess/Documentos/cordova/hello/www/js/jquery.js",
+		"/srv/http/para_raio/view/styles/js/googleJsApi.js",
+		"/home/cess/Documentos/nodejs/LoopBack/loopback-getting-started/server/middleware.json",
+		"/home/cess/Documentos/cordova/hello/platforms/android/android.json",
+		"/home/cess/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/cess/Documentos/cordova/hello/config.xml",
+		"/home/cess/Documentos/nodejs/LoopBack/loopback-getting-started/server/boot/authentication.js",
+		"/home/cess/Documentos/nodejs/hello-world/server/server.js",
+		"/home/cess/Documentos/nodejs/express2/routes/index.js",
+		"/home/cess/Documentos/nodejs/express2/views/index.jade",
+		"/home/cess/Documentos/nodejs/express2/app.js",
+		"/home/cess/Documentos/nodejs/express2/routes/users.js",
+		"/home/cess/Documentos/nodejs/chat-example/index.html",
+		"/home/cess/Documentos/nodejs/chat-example/index.js",
+		"/home/cess/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/cess/Documentos/nodejs/nodematerialize/public/stylesheets/style.css",
+		"/home/cess/Documentos/nodejs/nodematerialize/public/javascripts/underscore.js",
+		"/home/cess/Documentos/Semestre/Computação_Evolutiva/ag/ag-compact.js",
+		"/home/cess/Documentos/Semestre/Computação_Evolutiva/ag/plot-from-mongo-melhores_por_geracao.js",
+		"/home/cess/Documentos/nodejs/nodematerialize/public/experimentos-teste.json",
+		"/home/cess/Documentos/nodejs/nodematerialize/views/index.jade",
+		"/home/cess/Documentos/nodejs/nodematerialize/app.js",
+		"/home/cess/Documentos/nodejs/nodematerialize/public/javascripts/index.js",
+		"/home/cess/Documentos/nodejs/nodematerialize/views/layout.jade",
+		"/home/cess/Documentos/nodejs/nodematerialize/routes/index.js",
+		"/home/cess/Documentos/nodejs/nodematerialize/node_modules/chart.js/dist/Chart.js",
+		"/home/cess/Documentos/nodejs/nodematerialize/node_modules/chart.js/dist/Chart.min.js",
+		"/home/cess/Documentos/nodejs/nodematerialize/node_modules/chart.js/src/chart.js",
+		"/home/cess/Documentos/nodejs/nodematerialize/node_modules/chart.js/samples/bar.html",
+		"/home/cess/Documentos/nodejs/nodematerialize/public/chartjs/samples/line-stepped.html",
+		"/home/cess/Documentos/nodejs/nodematerialize/public/d3.min.js",
+		"/home/cess/Documentos/nodejs/nodematerialize/public/d3.js",
+		"/home/cess/.cache/.fr-qZtcvi/d3.min.js",
+		"/home/cess/Documentos/meteor/ltjquery/client/layout.html",
+		"/home/cess/Documentos/Semestre/Computação Evolutiva/ag/ag-compact.js",
+		"/home/cess/Documentos/Semestre/Computação Evolutiva/ag/ag-completo-mongodb.js",
+		"/home/cess/Documentos/nodejs/nodematerialize/package.json",
+		"/home/cess/Documentos/nodejs/express2/views/layout.jade",
+		"/home/cess/Documentos/nodejs/express2/views/helloworld.jade",
+		"/home/cess/Documentos/nodejs/express2/bin/www",
+		"/home/cess/Documentos/nodejs/express1/index.js",
+		"/home/cess/Documentos/nodejs/express2/package.json",
+		"/home/cess/.config/sublime-text-3/Packages/Color Scheme - Default/Blackboard.tmTheme",
+		"/home/cess/.config/sublime-text-3/Packages/Tron Color Scheme/TronLegacy.tmTheme",
+		"/home/cess/.cache/.fr-NapvAF/ColorSchemeEditor-ST2.py",
+		"/home/cess/Documentos/nodejs/express1/index.html",
+		"/home/cess/Documentos/meteor/hackathon/view/templates/template2.html",
+		"/home/cess/Documentos/meteor/hackathon/view/templates/layout/menuOptions.html",
+		"/home/cess/Documentos/meteor/hackathon/lib/routes.js",
+		"/home/cess/Documentos/meteor/hackathon/view/templates/index.html",
+		"/home/cess/Documentos/meteor/hackathon/lib/scripts.html",
+		"/home/cess/Documentos/meteor/hackathon/view/templates/conveniosFromMongo.html",
+		"/home/cess/Documentos/Semestre/Computação Evolutiva/ag/ag-completo-mysql.js",
+		"/home/cess/Documentos/Semestre/Computação Evolutiva/ag/plot-from-mongo-melhores_por_geracao.js",
+		"/home/cess/Documentos/Semestre/Computação Evolutiva/ag/plot-from-mongo.js",
+		"/home/cess/Documentos/Semestre/Computação Evolutiva/ag/plot-from-mongo.py",
+		"/home/cess/Documentos/nodejs/myapp/routes/index.js",
+		"/home/cess/Documentos/nodejs/myapp/app.js",
+		"/home/cess/Documentos/nodejs/HTML5Application/public_html/arquivo.js",
+		"/home/cess/Documentos/nodejs/HTML5Application/public_html/nodejs.js",
+		"/home/cess/Documentos/nodejs/HTML5Application/public_html/index.html",
+		"/home/cess/Documentos/Semestre/Computação Evolutiva/ag/package.json",
+		"/home/cess/Documentos/Semestre/Computação Evolutiva/ag/node_modules/mongodb/package.json",
+		"/home/cess/Desktop/Documentos/Semestre/Computação Evolutiva/ag/ag-completo.js",
+		"/home/cess/Documentos/Semestre/Computação Evolutiva/ag/index.js",
+		"/home/cess/Desktop/Documentos/Semestre/Computação Evolutiva/ag/package.json",
+		"/home/cess/Documentos/meteor/hackathon/controller/main.js",
+		"/home/cess/.config/sublime-text-3/Packages/User/nodeBuild.sublime-build",
+		"/home/cess/Documentos/nodejs/buypoint/teste",
+		"/home/cess/Documentos/nodejs/espress-teste/index.js",
+		"/srv/http/nomes/index.php",
+		"/srv/http/nomes.php",
+		"/home/cess/Documentos/nodejs/espress-teste/package.json",
+		"/home/cess/Documentos/nodejs/myapp/package.json",
+		"/home/cess/Documentos/nodejs/myapp/routes/users.js",
+		"/home/cess/Documentos/Semestre/Computação Evolutiva/teste.py",
+		"/home/cess/Documentos/meteor/virtualShopping/client/main.js",
+		"/home/cess/Documentos/meteor/virtualShopping/client/main.html",
+		"/home/cess/Documentos/meteor/virtualShopping/client/controller/routes.js",
+		"/home/cess/Documentos/meteor/virtualShopping/client/main.jade",
+		"/home/cess/Downloads/sistemacongresso.sql",
+		"/home/cess/Documentos/python/scriptHackathon/apiToDB.py",
+		"/srv/http/para_raio/config/Config.php",
+		"/home/cess/Documentos/meteor/angular/client/main.js",
+		"/home/cess/Documentos/meteor/angular/client/main.html",
+		"/home/cess/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/cess/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/cess/Documentos/meteor/ltjquery/client/angular-meteor.sublime-project",
+		"/home/cess/Desktop/initializr/index.html",
+		"/sbin/netbeans",
+		"/home/cess/Documentos/meteor/angular/client/layout.html",
+		"/home/cess/Documentos/meteor/angular/client/routes.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 112.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"var program = require('commander');\n \nprogram\n  .version('0.0.1')\n  .option('-p, --peppers', 'Add peppers')\n  .option('-P, --pineapple', 'Add pineapple')\n  .option('-b, --bbq-sauce', 'Add bbq sauce')\n  .option('-c, --cheese [type]', 'Add the specified type of cheese [marble]', 'marble')\n  .parse(process.argv);",
+			"BINARIO",
+			"		filho = this.pais[0].slice(0,ponto_corte_1)+this.pais[1].slice(ponto_corte_1,ponto_corte_2)+this.pais[0].slice(ponto_corte_2,qtd_bits);\n",
+			"cruza",
+			"');\n",
+			"logo\n",
+			");\n",
+			"gr",
+			"router.get('/', function(req, res, next) {\n  res.render('index', { title: 'Express' });\n});\n",
+			"result",
+			"media_array",
+			"wt",
+			"random",
+			"wt",
+			"01010101010010110101010100000110001101101110010011000010",
+			"population",
+			"individual",
+			"Crea",
+			"mutation_chance",
+			"num",
+			"largo",
+			"ctrl+spa",
+			"<template name=\"ex1\">\n\n</template>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"UNIFORME",
+			"experimentos",
+			"console.log",
+			"populacao",
+			"individuo",
+			"cria",
+			"tMutacao",
+			"qtdIndividuosPop",
+			"tamanho"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 152.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 120.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "Packages/User/nodeBuild.sublime-build",
+	"project": "plotAg.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 384.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 400.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
